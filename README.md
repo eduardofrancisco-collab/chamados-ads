@@ -12,9 +12,15 @@ Mat.: 2023009600
 
 ## Instalação e Execução
 
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/eduardofrancisco-collab/chamados-ads.git](https://github.com/eduardofrancisco-collab/chamados-ads.git)
-   cd chamados-ads
+# API de Chamados de Suporte (chamados-ads)
+
+## Objetivo
+Estrutura inicial da API de chamados de suporte desenvolvida com Python e Flask, com gerenciamento de ambiente e dependências via `uv`.
+
+## Instalação das Dependências
+Com o `uv` instalado, execute na raiz do projeto:
+
+```bash
+uv sync --locked
 
 
